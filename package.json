@@ -1,0 +1,26 @@
+{
+  "name": "odin-express-test",
+  "version": "1.0.0",
+  "description": "Testing the use of Express with Node.js for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstackdev/odin-express-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/benstackdev/odin-express-test/issues"
+  },
+  "homepage": "https://github.com/benstackdev/odin-express-test#readme",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.9.1",
+    "express": "^5.2.1"
+  }
+}
